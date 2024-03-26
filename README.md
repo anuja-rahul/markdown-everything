@@ -5,24 +5,46 @@
 
 <br>
 
-## Icons and badges
+## Icons and Badges
 
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+### Badges
+
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github)
 &nbsp;&nbsp;
-![GitHub](https://img.shields.io/github/forks/anuja-rahul/markdown-everything?style=for-the-badge&logo=github&color=000000)
+![GitHub](https://img.shields.io/github/forks/anuja-rahul/markdown-everything?style=for-the-badge&logo=github)
 &nbsp;&nbsp;
-![GitHub](https://img.shields.io/github/license/anuja-rahul/markdown-everything?style=for-the-badge&logo=github&color=000000)
+![GitHub](https://img.shields.io/github/license/anuja-rahul/markdown-everything?style=for-the-badge&logo=github)
 &nbsp;&nbsp;
-![GitHub](https://img.shields.io/github/stars/anuja-rahul/markdown-everything?style=for-the-badge&logo=github&color=000000)
+![GitHub](https://img.shields.io/github/stars/anuja-rahul/markdown-everything?style=for-the-badge&logo=github)
 
 ```markdown
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![GitHub](https://img.shields.io/github/forks/your-github-username/repo-name)
+![GitHub](https://img.shields.io/github/forks/your-github-username/repo-name?style=for-the-badge&logo=github)
 
-![GitHub](https://img.shields.io/github/license/your-github-username/repo-name)
+![GitHub](https://img.shields.io/github/license/your-github-username/repo-name?style=for-the-badge&logo=github)
 
-![GitHub](https://img.shields.io/github/stars/your-github-username/repo-name)
+![GitHub](https://img.shields.io/github/stars/your-github-username/repo-name?style=for-the-badge&logo=github)
+```
+
+### Icons
+
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-icon&logo=github)
+&nbsp;&nbsp;
+![GitHub](https://img.shields.io/github/forks/anuja-rahul/markdown-everything?style=for-the-icon&logo=github)
+&nbsp;&nbsp;
+![GitHub](https://img.shields.io/github/license/anuja-rahul/markdown-everything?style=for-the-icon&logo=github)
+&nbsp;&nbsp;
+![GitHub](https://img.shields.io/github/stars/anuja-rahul/markdown-everything?style=for-the-icon&logo=github)
+
+```markdown
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-icon&logo=github&logoColor=white)
+
+![GitHub](https://img.shields.io/github/forks/your-github-username/repo-name?style=for-the-icon&logo=github)
+
+![GitHub](https://img.shields.io/github/license/your-github-username/repo-name?style=for-the-icon&logo=github)
+
+![GitHub](https://img.shields.io/github/stars/your-github-username/repo-name?style=for-the-icon&logo=github)
 ```
 
 ## Stats

@@ -3,8 +3,6 @@
 
 ##### This is a collection of markdown features I found interesting stored in one place, so anyone can use them
 
----
-
 ## Icons and badges
 
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
@@ -24,7 +22,6 @@
 
 ![GitHub](https://img.shields.io/github/stars/USERNAME/REPO-NAME)
 ```
----
 
 ## Stats
 
@@ -33,8 +30,6 @@
 ```markdown
 ![](https://github-readme-stats.vercel.app/api?username=USERNAME)
 ```
-
----
 
 ## Language Usage
 

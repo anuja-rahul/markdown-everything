@@ -1,15 +1,11 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown) 
 ## Markdown Everything
 
----
-
 ##### This is a collection of markdown features I found interesting stored in one place, so anyone can use them
 
 ---
 
-### Icons and badges
-
----
+## Icons and badges
 
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 &nbsp;&nbsp;
@@ -30,9 +26,7 @@
 ```
 ---
 
-### Stats
-
----
+## Stats
 
 ![anuja-rahul's Stats](https://github-readme-stats.vercel.app/api?username=anuja-rahul&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
 
@@ -42,9 +36,7 @@
 
 ---
 
-### Language Usage
-
----
+## Language Usage
 
 ![anuja-rahul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuja-rahul&theme=nightowl&show_icons=true&hide_border=true&layout=compact&langs_count=19)
 

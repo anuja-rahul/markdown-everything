@@ -3,6 +3,8 @@
 
 ##### This is a collection of markdown features I found interesting stored in one place, so anyone can use them
 
+<br>
+
 ## Icons and badges
 
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)

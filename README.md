@@ -55,3 +55,42 @@
 ```markdown
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 ```
+
+## Code Snippets
+
+```python
+print("Hello World !")
+```
+
+    ```python
+
+        print("Hello World !")
+
+    ```
+---
+
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, world!" << std::endl;
+    return 0;
+}
+
+```
+
+    ```cpp
+
+    #include <iostream>
+    
+    int main() {
+        std::cout << "Hello, world!" << std::endl;
+        return 0;
+    }
+    
+    ```
+
+
+
+
+

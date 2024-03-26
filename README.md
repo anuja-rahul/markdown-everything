@@ -36,6 +36,6 @@
 ![anuja-rahul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuja-rahul&theme=nightowl&show_icons=true&hide_border=true&layout=compact&langs_count=19)
 
 ````markdown
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuja-rahul)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME)
 ````
 

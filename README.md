@@ -16,7 +16,7 @@
 ![GitHub](https://img.shields.io/github/stars/anuja-rahul/markdown-everything?style=for-the-badge&logo=github&color=000000)
 
 ```markdown
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ![GitHub](https://img.shields.io/github/forks/your-github-username/repo-name)
 

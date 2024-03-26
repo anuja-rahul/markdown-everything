@@ -35,10 +35,18 @@
 
 ## Language Usage
 
-![anuja-rahul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuja-rahul&theme=nightowl&show_icons=true&hide_border=true&layout=compact&langs_count=19)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuja-rahul\&theme=nightowl)
+&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuja-rahul&layout=donut\&theme=nightowl)
+&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuja-rahul\&theme=nightowl&layout=compact)
 
 ````markdown
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=donut)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
 ````
 
 ## GitHub Trophies
@@ -89,6 +97,14 @@ int main() {
     }
     
     ```
+
+## Repo Card
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuja-rahul&repo=markdown-everything\&show_owner=true\&theme=nightowl)
+
+```markdown
+![](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=repo-name\&show_owner=true)
+```
 
 
 

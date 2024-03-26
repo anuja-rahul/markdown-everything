@@ -1,5 +1,5 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown) 
-## Markdown Everything
+# Markdown Everything
 
 ##### This is a collection of markdown features I found interesting stored in one place, so anyone can use them
 

@@ -122,7 +122,6 @@ int main() {
 
 ## Repo Card
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuja-rahul&repo=markdown-everything\&show_owner=true\&theme=nightowl)
 
 ```markdown
 ![](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=repo-name\&show_owner=true)
